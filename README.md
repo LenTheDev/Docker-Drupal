@@ -1,2 +1,2 @@
 # Docker-Drupal
-Setup Docker and Drupal for Development (IS-373)
+Setup for Docker and Drupal Development (IS-373)
